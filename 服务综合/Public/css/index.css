@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+li {
+    list-style: none;
+}
+
+span {
+    color: rgb(31, 89, 139);
+    cursor: pointer;
+    background-color: red;
+}
